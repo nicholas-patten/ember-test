@@ -13,6 +13,7 @@ Router.map(function() {
   this.route('manks');
   this.route('jammers');
   this.route('yaddayadda');
+  this.route('wakkawakka');
 });
 
 export default Router;
