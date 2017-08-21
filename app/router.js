@@ -11,6 +11,7 @@ Router.map(function() {
   this.route('programmers');
   this.route('builders');
   this.route('manks');
+  this.route('jammers');
 });
 
 export default Router;
