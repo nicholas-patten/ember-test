@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('scientists');
   this.route('programmers');
   this.route('builders');
+  this.route('manks');
 });
 
 export default Router;
